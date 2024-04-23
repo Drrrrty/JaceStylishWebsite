@@ -248,6 +248,9 @@ footer-col-1{
     flex: 1;
     text-align: center;
 }
+.footer-col-4 a{
+    font-color:white
+}
 .footer-col-2 img{
     width: 180px;
     margin-bottom: 20px;
