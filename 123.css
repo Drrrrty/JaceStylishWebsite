@@ -266,6 +266,7 @@ ul{
 }
 .app-logo{
     margin-top: 20px;
+    cursor: pointer;
 }
 .app-logo img{
     width: 140px;
